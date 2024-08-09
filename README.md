@@ -2,6 +2,7 @@
 
 This repository contains the backend portion of Client Cloud, a full-stack web application designed to streamline and manage client information efficiently. The backend is built using Java 17, Spring Boot, and MySQL, providing a robust and scalable foundation for client care management.
 
+### Link to Client Cloud Frontend Repo: https://github.com/dez-the-developer/client-cloud-frontend ###
 ## Features
 
 - **RESTful API:** Exposes endpoints for client management operations such as creating, updating, deleting, and retrieving client information.
